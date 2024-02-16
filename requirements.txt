@@ -5,3 +5,4 @@ pandas
 matplotlib
 folktables
 scikit-learn
+shap
