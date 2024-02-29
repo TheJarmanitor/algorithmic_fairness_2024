@@ -5,4 +5,7 @@ pandas
 matplotlib
 folktables
 scikit-learn
+statsmodels
 shap
+dtreeviz
+graphviz
